@@ -18,7 +18,7 @@ This is a front-end clone of Amazon's homepage built using HTML, CSS, and Font A
 
 # How to Run 🚀
 -Clone the repository:
-git clone https://github.com/your-username/amazon-clone.git  
+git clone https://github.com/Saurabh-html/amazon-clone.git  
 -Open index.html in a browser
 
 # Contributing 🤝
