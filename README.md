@@ -8,13 +8,18 @@ This is a front-end clone of Amazon's homepage built using HTML, CSS, and Font A
 -Product Section displaying various shopping categories with images
 -Fully Styled Footer resembling Amazon's design
 
+
+
 # Technologies Used 🛠
 -HTML5 for structure
 -CSS3 for styling and layout
 -Font Awesome for icons
 
 # Preview 📸
-(Add a screenshot of your project here)
+![Game Preview](output1.png)
+![Game Preview](output2.png)
+![Game Preview](output3.png)
+
 
 # How to Run 🚀
 -Clone the repository:
